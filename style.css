@@ -95,4 +95,9 @@ display: flex;
   background-repeat: no-repeat;
   background-position: 50% center;
   background-color: red;
+  opacity: 0.5;
+}
+
+.acessar button.ativo{
+  opacity: 1;
 }
